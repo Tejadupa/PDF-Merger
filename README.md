@@ -1,1 +1,2 @@
 # PDF-Merger
+This project presents a PDF Merger tool developed using the PyPDF2 module in Python. The tool enables the merging of multiple PDF files into a single document with minimal effort. Utilizing PyPDF2, a powerful library for handling PDF files in Python, the merger offers an efficient and automated way to combine PDFs for easier management, sharing, and storage. The program reads in multiple PDF files, merges them in a sequential order, and outputs a single unified PDF.
